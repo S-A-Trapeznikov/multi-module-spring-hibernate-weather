@@ -1,0 +1,53 @@
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="1" yahoo:created="2018-05-21T06:09:49Z" yahoo:lang="en">
+    <results>
+        <channel>
+            <yweather:units xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" distance="mi" pressure="in" speed="mph" temperature="F"/>
+            <title>Yahoo! Weather - Minsk, Minsk, BY</title>
+            <link>
+                http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-834463/
+            </link>
+            <description>Yahoo! Weather for Minsk, Minsk, BY</description>
+            <language>en-us</language>
+            <lastBuildDate>Mon, 21 May 2018 09:09 AM MSK</lastBuildDate>
+            <ttl>60</ttl>
+            <yweather:location xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" city="Minsk" country="Belarus" region="Minsk"/>
+            <yweather:wind xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" chill="46" direction="30" speed="11"/>
+            <yweather:atmosphere xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" humidity="69" pressure="999.0" rising="0" visibility="16.1"/>
+            <yweather:astronomy xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" sunrise="4:57 am" sunset="9:16 pm"/>
+            <image>
+                <title>Yahoo! Weather</title>
+                <width>142</width>
+                <height>18</height>
+                <link>http://weather.yahoo.com</link>
+                <url>
+                    http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif
+                </url>
+            </image>
+            <item>
+                <title>Conditions for Minsk, Minsk, BY at 08:00 AM MSK</title>
+                <geo:lat xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">53.90255</geo:lat>
+                <geo:long xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">27.563101</geo:long>
+                <link>
+                    http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-834463/
+                </link>
+                <pubDate>Mon, 21 May 2018 08:00 AM MSK</pubDate>
+                <yweather:condition xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="34" date="Mon, 21 May 2018 08:00 AM MSK" temp="49" text="Mostly Sunny"/>
+                <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="21 May 2018" day="Mon" high="67" low="40" text="Partly Cloudy"/>
+                <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="22 May 2018" day="Tue" high="67" low="48" text="Mostly Cloudy"/>
+                <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="23 May 2018" day="Wed" high="71" low="49" text="Partly Cloudy"/>
+                <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="24 May 2018" day="Thu" high="73" low="54" text="Mostly Cloudy"/>
+                <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="25 May 2018" day="Fri" high="71" low="54" text="Partly Cloudy"/>
+                <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="34" date="26 May 2018" day="Sat" high="70" low="49" text="Mostly Sunny"/>
+                <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="27 May 2018" day="Sun" high="71" low="50" text="Partly Cloudy"/>
+                <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="28 May 2018" day="Mon" high="76" low="53" text="Partly Cloudy"/>
+                <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="29 May 2018" day="Tue" high="78" low="56" text="Partly Cloudy"/>
+                <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="23" date="30 May 2018" day="Wed" high="74" low="54" text="Breezy"/>
+                <description>
+                    <![CDATA[<img src="http://l.yimg.com/a/i/us/we/52/34.gif"/> <BR /> <b>Current Conditions:</b> <BR />Mostly Sunny <BR /> <BR /> <b>Forecast:</b> <BR /> Mon - Partly Cloudy. High: 67Low: 40 <BR /> Tue - Mostly Cloudy. High: 67Low: 48 <BR /> Wed - Partly Cloudy. High: 71Low: 49 <BR /> Thu - Mostly Cloudy. High: 73Low: 54 <BR /> Fri - Partly Cloudy. High: 71Low: 54 <BR /> <BR /> <a href="http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-834463/">Full Forecast at Yahoo! Weather</a> <BR /> <BR /> <BR /> ]]>
+                </description>
+                <guid isPermaLink="false"/>
+            </item>
+        </channel>
+    </results>
+</query>
+        <!--  total: 4  -->
